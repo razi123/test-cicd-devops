@@ -1,0 +1,9 @@
+{
+	"name": "test-ci-devops",
+	"location": "germanywestcentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e5c5d61d-91ea-4d5d-ace6-e1733956c90b",
+		"tenantId": "07d3011c-8081-4190-902e-92d2c2e8963e"
+	}
+}
